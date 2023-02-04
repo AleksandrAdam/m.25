@@ -1,7 +1,3 @@
-# selenium_25modul
-Это учебный проект.
-
-Требования 
 (Задание 25.3.1):
 Написать тест, который проверяет, что на сайте PetFriends (https://petfriends.skillfactory.ru/) на странице со списком питомцев пользователя (https://petfriends.skillfactory.ru/my_pets):
 1) Присутствуют все питомцы.
