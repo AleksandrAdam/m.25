@@ -6,8 +6,8 @@ import pytest
 def testing():
    pytest.driver = webdriver.Chrome('C:\\WebDriver\\bin\\chromedriver.exe')
 
-   pytest.driver.set_window_size(1400, 1000)
-   # Переходим на страницу авторизации
+   pytest.driver.set_window_size(1000, 1000)
+   # Переход на страницу авторизации пользователя
    pytest.driver.get('https://petfriends.skillfactory.ru/login')
 
    yield
